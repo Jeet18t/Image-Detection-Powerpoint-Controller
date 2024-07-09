@@ -32,7 +32,9 @@ cd image-detection-powerpoint-controller
 python main.py
 ```
 4. If you want to test it:
-   ### Use a pink pen to move from left to right to advance to the next slide. Use an orange pen to move from right to left to go back to the previous slide.
+   ### Use your hand to make a left-->right gesture to move to next slide, and move your hand in a right-->left gesture to move to previous slide.
+   ## or
+   ### You can also use different color pens eg: orange and pink pens to move to next and previous slide respectively
 
 
 ## Configuration
